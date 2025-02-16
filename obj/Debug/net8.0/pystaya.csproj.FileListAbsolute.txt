@@ -1,0 +1,15 @@
+D:\games\pystaya\bin\Debug\net8.0\pystaya.exe
+D:\games\pystaya\bin\Debug\net8.0\pystaya.deps.json
+D:\games\pystaya\bin\Debug\net8.0\pystaya.runtimeconfig.json
+D:\games\pystaya\bin\Debug\net8.0\pystaya.dll
+D:\games\pystaya\bin\Debug\net8.0\pystaya.pdb
+D:\games\pystaya\obj\Debug\net8.0\pystaya.GeneratedMSBuildEditorConfig.editorconfig
+D:\games\pystaya\obj\Debug\net8.0\pystaya.AssemblyInfoInputs.cache
+D:\games\pystaya\obj\Debug\net8.0\pystaya.AssemblyInfo.cs
+D:\games\pystaya\obj\Debug\net8.0\pystaya.csproj.CoreCompileInputs.cache
+D:\games\pystaya\obj\Debug\net8.0\pystaya.sourcelink.json
+D:\games\pystaya\obj\Debug\net8.0\pystaya.dll
+D:\games\pystaya\obj\Debug\net8.0\refint\pystaya.dll
+D:\games\pystaya\obj\Debug\net8.0\pystaya.pdb
+D:\games\pystaya\obj\Debug\net8.0\pystaya.genruntimeconfig.cache
+D:\games\pystaya\obj\Debug\net8.0\ref\pystaya.dll
